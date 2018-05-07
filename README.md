@@ -5,3 +5,4 @@ def hello_word:
     print ('hello word')
 if __name__ = __main__
   print ('hello word')
+# 我打算使用这个来练习Github
